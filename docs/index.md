@@ -44,7 +44,7 @@ Andreas Eisenbarth *(EMBL Heidelberg)*
 | ----------- | ------------------------------------------------------------------- |
 | 09.30h      | Arrival                                                             |
 | 10.00h      | Introduction and scope of the meeting                               |
-| 10.15h      | **Presentations:** Andreas, Tong, Christian, Josh, Luca, Nils/Jonas |
+| 10.15h      | **Presentations:** Josh, Andreas, Tong, Christian, Luca, Nils/Jonas |
 | 11.30h      | Coffee break                                                        |
 | 11.45h      | **Discussion:** File formats, data representation, interoperability |
 | 13.00h      | Lunch                                                               |
