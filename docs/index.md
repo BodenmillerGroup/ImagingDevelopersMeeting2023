@@ -33,19 +33,19 @@ Andreas Eisenbarth (EMBL Heidelberg)
 
 ## Agenda
 
-| Time (CET)  | Topic                                                             |
-| ----------- | ----------------------------------------------------------------- |
-| 09.30h      | Arrival                                                           |
-| 10.00h      | Introduction and scope of the meeting                             |
-| 10.15h      | Presentations: Andreas, Tong, Christian, Josh, Luca, Nils/Jonas   |
-| 11.30h      | Coffee break                                                      |
-| 11.45h      | Discussion 1: File formats, data representation, interoperability |
-| 13.00h      | Lunch                                                             |
-| 14.00h      | Presentations: Joel, Max, Nicole, Denis, Jovan, Hannah            |
-| 15.30h      | Coffee break                                                      |
-| 15.45h      | Discussion 2: Spatial and image analysis                          |
-| 17.00h      | Open challenges                                                   |
+| Time (CET)  | Topic                                                               |
+| ----------- | ------------------------------------------------------------------- |
+| 09.30h      | Arrival                                                             |
+| 10.00h      | Introduction and scope of the meeting                               |
+| 10.15h      | **Presentations:** Andreas, Tong, Christian, Josh, Luca, Nils/Jonas |
+| 11.30h      | Coffee break                                                        |
+| 11.45h      | **Discussion:** File formats, data representation, interoperability |
+| 13.00h      | Lunch                                                               |
+| 14.00h      | **Presentations:** Joel, Max, Nicole, Denis, Jovan, Hannah          |
+| 15.30h      | Coffee break                                                        |
+| 15.45h      | **Discussion:** Spatial and image analysis                          |
+| 17.00h      | Open challenges                                                     |
 
-Dinner will be held at [Riithalle](https://goo.gl/maps/RwhmcgUp6hfpUEE76) at 19.15h
+Dinner will be held at [Riithalle](https://goo.gl/maps/RwhmcgUp6hfpUEE76) at 19.15h.
 
 
