@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+  - navigation
 ---
 
 # Multiplexed Image Analysis Developers Meeting
