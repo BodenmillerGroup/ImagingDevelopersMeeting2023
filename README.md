@@ -9,7 +9,9 @@ This meeting forms a platform to connect and network among developers working on
 Key aspects of the meeting are open discussions on data fromats, interoperability and the different approaches for image and spatial data analysis.
 
 **Date:** Monday, 09.01.2023  
+
 **Location:** University of Zurich, Irchel Campus, [Room Y19-J-22](https://www.plaene.uzh.ch/Y19?z=6&lon=951928.12694089&lat=6007121.6937867&f=showAll&w=618&h=460&m=marker_building_Y19)  
+
 **Directions:** Navigate to and enter building Y38 at the far end of the Irchel campus, take the list/stairs up to J floor and walk over to building Y19.  
 
 To access the meeting via zoom please contact [nils.eling@uzh.ch](mailto:nils.eling@uzh.ch).
