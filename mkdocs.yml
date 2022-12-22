@@ -15,8 +15,6 @@ plugins:
   - search
 
 site_name: Multiplexed Image Analysis Developers Meeting
-nav:
-    - Home: index.md
     
 markdown_extensions:
     - footnotes
