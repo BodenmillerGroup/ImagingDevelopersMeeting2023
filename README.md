@@ -1,4 +1,4 @@
-# European multiplexed image analysis developers meeting
+# Multiplexed Image Analysis Developers Meeting
 
 This meeting forms a platform to connect and network among developers working on computational tools for processing and analyzing multiplexed imaging data.
 Key aspects of the meeting are open discussions on data fromats, interoperability and the different approaches for image and spatial data analysis.
