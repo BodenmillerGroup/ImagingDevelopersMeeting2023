@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # European multiplexed image analysis developers meeting
 
 This meeting forms a platform to connect and network among developers working on computational tools for processing and analyzing multiplexed imaging data.
