@@ -11,6 +11,10 @@ Key aspects of the meeting are open discussions on data fromats, interoperabilit
 
 To access the meeting via zoom please contact [nils.eling@uzh.ch](mailto:nils.eling@uzh.ch).
 
+## Notes
+
+Please find editable notes on the meeting [here](https://docs.google.com/document/d/1BIloc7qBdA2nh8nKhbXUfjfqtyGjPWjhRCAb7vGChYA/edit?usp=sharing).
+
 ## Participants
 
 Giovanni Palla *(Helmholtz Zentrum München)*  
